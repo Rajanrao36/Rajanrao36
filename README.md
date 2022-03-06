@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 
-**Rajanrao36/Rajanrao36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+👋 I’m Rajan Rao. I am college studdent. I am from India , currently living in Mohali.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on college student
 - 🌱 I’m currently learning avascript and node JS
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m Looking For Help For Myself
 - 📫 How to reach me: @rajanrao_36
 - ⚡ Fun fact: ...
