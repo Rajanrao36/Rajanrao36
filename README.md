@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Rajanrao36/Rajanrao36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m Looking For Help For Myself
 - 📫 How to reach me: @rajanrao_36
 - ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi 👋, I'm Rajan Rao</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
