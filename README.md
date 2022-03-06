@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Javascript and node JS**
 
-- 📫 How to reach me **rajankumarrao04@gmail.com**
+- 📫 How to reach me **@rajanrao_36**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
