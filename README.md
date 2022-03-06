@@ -1,21 +1,19 @@
+<h1 align="center">Hi 👋, I'm Rajan Rao</h1>
+<h3 align="center">A passionate backend developer from India</h3>
+
+
 ### Hi there 👋
 
 
 👋 I’m Rajan Rao. I am college studdent. I am from India , currently living in Mohali.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on college student
-- 🌱 I’m currently learning avascript and node JS
+- 🔭 I’m currently working on **college student**
+- 🌱 I’m currently learning **Javascript and node JS**
 - 🤔 I’m Looking For Help For Myself
-- 📫 How to reach me: @rajanrao_36
+- 📫 How to reach me: **@rajanrao_36**
 - ⚡ Fun fact: ...
 
-<h1 align="center">Hi 👋, I'm Rajan Rao</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-
-- 🌱 I’m currently learning **Javascript and node JS**
-
-- 📫 How to reach me **@rajanrao_36**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
