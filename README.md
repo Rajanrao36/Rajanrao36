@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **college student**
-- 🌱 I’m currently learning **C++ and DS**
+- 🌱 I’m currently learning **Full Stack Web Development and DS**
 - 🤔 I’m Looking For Help For Myself
 - 📫 How to reach me: **@rajanrao_36**
 - ⚡ Fun fact: ...
