@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 
-👋 I’m Rajan Rao. I am college studdent. I am from India , currently living in Mohali.
+👋 I’m Rajan Rao. I am college studdent. I am from India , currently living in Delhi.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **college student**
